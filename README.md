@@ -5,5 +5,5 @@ Learning how Github works, and putting my projects to showcase by data analytic 
 ## Content
 
 ## Contact 
-[Connect on Linkedin][linkedin.com/in/eelliot.com ](url)
+[Linkedin][linkedin.com/in/eelliot.com ](url)
 
